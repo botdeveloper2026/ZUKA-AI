@@ -1,9 +1,9 @@
 {
   "bot-name": "ZUKA-AI",
-  "description": "ᴛʜᴇ ʙᴇsᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴢᴜᴋᴀ",
+  "description": "Best Whatsapp bot developed by Zuka",
   "logo": "https://files.catbox.moe/41lt2l.jpg",
   "keywords": ["bot"],
-  "documentation-link": "https://zuka-ai-session-generator.onrender.com",
+  "documentation-link": "https://zuka-ai-pair.onrender.com",
     "owner-verification":"botdeveloper2026@gmail.com",
   
   "env": {
