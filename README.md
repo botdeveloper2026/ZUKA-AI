@@ -23,7 +23,7 @@
 [![Fork Repo](https://img.shields.io/badge/Fork-Repo-222222?style=for-the-badge&logo=github)](https://github.com/botdeveloper2026/ZUKA-AI/fork)
 
 ### 2️⃣ Get Your Session ID  
-[![Get Session ID](https://img.shields.io/badge/Get-Session%20ID-orange?style=for-the-badge&logo=key)](https://zuka-ai-session-generator.onrender.com)
+[![Get Session ID](https://img.shields.io/badge/Get-Session%20ID-orange?style=for-the-badge&logo=key)](https://zuka-ai-pair.onrender.com)
 
 ---
 
