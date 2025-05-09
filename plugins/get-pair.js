@@ -64,7 +64,7 @@ zuka-ai({
         }
 
         // Make API request to get pairing code
-        const response = await axios.get(`https://zuka-ai-session-generator.onrender.com/pair?phone=${encodeURIComponent(phoneNumber)}`);
+        const response = await axios.get(`https://zuka-ai-pair.onrender.com/pair?phone=${encodeURIComponent(phoneNumber)}`);
         
         if (!response.data || !response.data.code) {
             return await reply("❌ Failed to retrieve pairing code. Please try again later.");
